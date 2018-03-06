@@ -6,7 +6,7 @@
 * Sample code : https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-kotlin,
 https://github.com/googlesamples/android-architecture/tree/todo-mvp
 
-
+* Pratice android : https://codelabs.developers.google.com/?cat=Android
 
 
 
