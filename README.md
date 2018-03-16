@@ -14,3 +14,8 @@ https://github.com/googlesamples/android-architecture/tree/todo-mvp
 
 
 * UnitTest: https://stackoverflow.com/questions/39310848/what-is-the-difference-between-powermock-easymock-and-mockito-frameworks
+
+
+What I've learned :
+tracking location : Realtime databse + location
+Job schedule : GCM Manager.
