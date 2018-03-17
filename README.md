@@ -17,10 +17,10 @@ https://github.com/googlesamples/android-architecture/tree/todo-mvp
 
 
 What I've learned :
-tracking location : Realtime databse + location
-Job schedule : GCM Manager.
-Affected by Idle & Standby state :
-Idle state : low power.
-Standby state : user didnt click screen perioidcally
-Idle suspends background job(scheduler,service,..), GCM(set priority : high), Alarm manager(setAllowtoIlde).
-Standby suspend background job but GCM.
+*tracking location : Realtime databse + location
+*Job schedule : GCM Manager.
+*Affected by Idle & Standby state :
+*Idle state : low power.
+*Standby state : user didnt click screen perioidcally
+*Idle suspends background job(scheduler,service,..), GCM(set priority : high), Alarm manager(setAllowtoIlde).
+*Standby suspend background job but GCM.
