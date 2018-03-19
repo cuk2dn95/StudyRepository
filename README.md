@@ -7,7 +7,7 @@
 https://github.com/googlesamples/android-architecture/tree/todo-mvp
 
 * Pratice android : https://codelabs.developers.google.com/?cat=Android
-
+* Dagger 2 : https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-dagger-2-part-i-f2de5564ab25
 
 
 
